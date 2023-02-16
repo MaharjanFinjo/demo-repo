@@ -1,7 +1,2 @@
 #Demo
-
-baba 
-
-
-
 maharjan try
